@@ -36,20 +36,20 @@ h1,h2,h3{
     width: 120px;
 }
 
-.modal-custom{
+/* .modal-custom{
     color: rgb(223, 193, 138);
     background-color: rgb(46, 51, 63);
-}
+} */
 
 /* .icona{
     cursor: pointer;
 } */
 
-.icon, .icona{
+.icon{
     cursor: pointer;
 }
 
-.modal-btn{
+/* .modal-btn{
     height: 100px;
     width: 200px;
     display: block;
@@ -57,7 +57,7 @@ h1,h2,h3{
     border: 2px solid rgb(223, 193, 138);
     color: rgb(223, 193, 138);
     border-radius: 40px;
-}
+} */
 
 .modal-btn:hover{
     background-color: rgb(223, 193, 138) !important;
